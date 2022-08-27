@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# This is a Text Analyzer App.
+
+
+https://user-images.githubusercontent.com/91718893/187026842-8edd92ee-f2ce-46f1-85f9-0e5909a1357e.mp4
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
